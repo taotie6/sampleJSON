@@ -1,0 +1,17 @@
+.album{
+    margin-left: 50px;
+    width: 342px;
+}
+img{
+    height: 110px;
+    width: 110px;
+}
+img:only-child{
+    height: initial;  /*相当于删除已设置的某一属性*/
+    width: initial;
+    max-width: 230px;
+    max-height: 230px;
+}
+img:nth-child(2):nth-last-child(3){
+    margin-right: 110px;
+}
