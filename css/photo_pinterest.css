@@ -56,3 +56,16 @@ div#columns:hover figure:not(:hover) {
   #columns { column-gap: 0px; }
   #columns figure { width: 100%; }
 }
+
+/*
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/taotie6/sampleJSON@main/css/photo_pinterest.css">
+<meta name="referrer" content="no-referrer" />
+
+<div id="columns">
+  <figure>
+    <img class="img-item" src="https://telegra.ph/file/b3471fe4c7ed1a8e52f10.jpg" />
+    <figcaption>Cinderella wearing European fashion of the mid-1860’s</figcaption>
+  </figure>
+</div>
+
+*/
